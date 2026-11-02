@@ -1,10 +1,12 @@
     # Blood Donor Nepal (रक्तदान नेपाल)
 
-Blood Donor Nepal is a beginner-friendly web application designed to help people find blood donors across Nepal.
+Blood Donor Nepal is a web application designed to help people find blood donors across Nepal.
 
 I built this project to explore how a simple web application could handle donor registration, blood requests, verification, and basic administration while working with HTML, CSS, and JavaScript.
 
 The project does not use any frameworks or require a build process.
+
+It was intended just for a prototype that I did for an summer break internship. 
 
 **By sthapit27ps**
 
